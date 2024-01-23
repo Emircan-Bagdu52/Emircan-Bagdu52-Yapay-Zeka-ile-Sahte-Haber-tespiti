@@ -1,0 +1,1 @@
+# Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti
