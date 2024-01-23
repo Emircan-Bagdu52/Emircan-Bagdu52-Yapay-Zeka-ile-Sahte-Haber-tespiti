@@ -1,1 +1,1 @@
-# Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti
+<h1>YAPAY ZEKA İLE BETON ÇATLAK TESPİTİ</h1>
