@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sahte Haber Tespiti Projesi</title>
-</head>
-<body>
+
     <h1>Sahte Haber Tespiti Projesi</h1>
     
     <h2>Problem</h2>
@@ -23,5 +16,3 @@
 
     <h3>3.1. Metin Ön İşleme</h3>
     <p>Metin ön işlemede Python dili üzerinde, NLTK ve ZEMBEREK kütüphaneleri ağırlıklı olmak üzere bu kütüphanelere ek olarak bazı farklı modüller ve Python’da gömülü gelen fonksiyonlar kullanılacaktır. NLTK ile cümlelerdeki noktalama işaretlerini, sayısal ifadeleri, durak kelimeleri çıkarmak ve tüm karakterleri küçük karakterlere çevirmek gibi işlemler yapılacaktır. ZEMBEREK kütüphanesi ise kelimeleri köklerine ve gövdelerine ayırmak için kullanılacaktır. İki ayrı kütüphane kullanılmasının nedeni ise NLTK kütüphanesinin Türkçe gibi sondan eklemeli dillerde kelimenin köklerini ve gövdelerini çoğu kez doğru bir şekilde bulamamasıdır.</p>
-</body>
-</html>
