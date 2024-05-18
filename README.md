@@ -39,34 +39,50 @@ Karmaşıklık matrisi veri setindeki var olan durum ile sınıflandırma modeli
 Projenin çözümü için tasarlanan algoritma, Python programlama dili üzerinde kodlanmıştır.
 <h3>4.1.Metin Ön İşleme Aşaması</h3>
 
-	Gerekli Kütüphanelerin Dahil Edilmesi
+Gerekli Kütüphanelerin Dahil Edilmesi
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/2f7e68af-bf6a-4bee-8161-8e64a3b6f3da)
 
-	Veri Setinin Dahil Edilmesi 
+Veri Setinin Dahil Edilmesi 
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/894538b1-9a8e-45e9-8c06-69d273b86b89)
-	Metin Düzenlenme İşlemi
+Metin Düzenlenme İşlemi
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/312cfa69-ea72-42b7-ae24-4a80c052a9d2)
 <h3> 4.2.Öznitelik Çıkarım Aşaması</h3>
-	Veri Setinin Train-Test Olarak Bölünmesi
+
+Veri Setinin Train-Test Olarak Bölünmesi
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/b5c40af3-99a4-48cd-969f-259da67c3a92)
-	Vektörizasyon İşlemi
+
+Vektörizasyon İşlemi
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/ac0b6855-9dec-496f-9896-8d55a64fc7de)
-	TF-IDF Skoru Hesaplama İşlemi
+
+TF-IDF Skoru Hesaplama İşlemi
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/e52c8510-a7ce-4e66-b22a-570cc0b5f30d)
+
 <h3>4.3.Sınıflandırma Aşaması</h3> 
-	NAİVE BAYES Sınıflandırma Modelinin Test Edilmesi
+NAİVE BAYES Sınıflandırma Modelinin Test Edilmesi
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/0ff96afc-2068-45a0-bf76-a52f2c5722d5)
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/ff60f6f9-6f28-4364-814d-d650c7c8418c)
-	KNN Sınıflandırma Modelinin Test Edilmesi
+
+KNN Sınıflandırma Modelinin Test Edilmesi
+
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/106a1e17-4b33-46e0-bb3d-901525b02a52)
 ![image](https://github.com/Emircan-Bagdu52/Emircan-Bagdu52-Yapay-Zeka-ile-Sahte-Haber-tespiti/assets/95845060/0e27224f-a8ad-469f-a448-5f618fd2e1e2)
 
 <h2>Kaynakça</h2>
 [1] Toğaçar, M., Eşidir, K. A., & Ergen, B. (2022). Yapay Zekâ Tabanlı Doğal Dil İşleme Yaklaşımını Kullanarak İnternet Ortamında Yayınlanmış Sahte Haberlerin Tespiti. Journal of Intelligent Systems: Theory and Applications, 5(1), 1-8. 
+
 [2] YILDIRIM, E. (2022). HIZLANDIRILMIŞ MAKİNE ÖĞRENMESİ ALGORİTMALARI İLE TÜRKÇE SAHTE HABER TESPİTİ (Doctoral dissertation).
+
  [3] TAŞKIN, S. G., Küçüksille, E. U., & Topal, K. Twitter üzerinde Türkçe sahte haber tespiti. Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi, 23(1), 151-172.
+ 
  [4] https://yalansavar.org/2020/03/03/podcast-22-uydurma-haberler/ 
+ 
 [5] Onur Dayıbaşı. (Aug 13, 2015). TF-IDF (Term Frequency — Inverse Document Frequency). Medium. https://medium.com/algorithms-data-structures/tf-idf-term-frequency-inverse-document-frequency-53feb22a17c6
+
  [6] Şevval Ayşe Yurtekin. (23 OCA 2022). Doğal dil işlemede temel kavramlara hızlı bir bakış. miuul. https://www.miuul.com/not-defteri/dogal-dil-islemede-temel-kavramlara-hizli-bir-bakis
 
 
